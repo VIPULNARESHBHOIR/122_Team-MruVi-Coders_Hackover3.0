@@ -8,4 +8,9 @@ for Hint  click 1 , and you can access the hint only once.
 the main enjoyable thing is that , we will use a pyttsx3 module to speak a word which is corrected & to speak the Score.
 This is basic idea of our game.
 
+The Future & basic Importance of this game are that:
+1.To develop basic English skills & Grammer Knowledge.
+2.To avoid spelling mistake for words.
+3.To learn new English Words.
+
 THANK YOU !
